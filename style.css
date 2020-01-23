@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+#in{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgba(0, 0, 0, 0.438);
+    height: 100%;
+}
+table{
+   
+    margin-right: auto;
+    margin-left: auto;
+    width: 75%;
+}
+input{
+    margin-right: auto;
+    
+    width: 90%;
+}
+#b{
+   
+    width: 8%;
+    margin-left: auto;
+    
+}
+#iin{
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+   
+}
